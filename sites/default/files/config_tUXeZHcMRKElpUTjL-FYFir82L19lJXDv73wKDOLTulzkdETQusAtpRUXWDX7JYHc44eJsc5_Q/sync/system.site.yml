@@ -1,0 +1,14 @@
+uuid: fdcd4902-bce8-4fc2-97e1-74b99b71cf8f
+name: 'Bazzic Consulting'
+mail: bazzic@gmail.com
+slogan: 'Drupal website development'
+page:
+  403: ''
+  404: ''
+  front: /node/4
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo

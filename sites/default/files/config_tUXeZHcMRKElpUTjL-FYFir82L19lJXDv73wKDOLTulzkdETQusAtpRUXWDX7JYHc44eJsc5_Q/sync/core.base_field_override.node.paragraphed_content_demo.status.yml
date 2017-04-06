@@ -1,0 +1,22 @@
+uuid: 512f5d87-f69f-417a-8564-27bb1d463fee
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.paragraphed_content_demo
+id: node.paragraphed_content_demo.status
+field_name: status
+entity_type: node
+bundle: paragraphed_content_demo
+label: 'Publishing status'
+description: 'A boolean indicating the published state.'
+required: false
+translatable: true
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean
